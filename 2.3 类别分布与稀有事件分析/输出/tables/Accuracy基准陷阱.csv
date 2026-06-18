@@ -1,0 +1,5 @@
+﻿指标,值
+朴素规则,全部预测为正常（Class=0）
+Accuracy,99.8273%
+欺诈类 Recall,0.0
+欺诈类 Precision,0.0
